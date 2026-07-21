@@ -2,7 +2,7 @@
 
 > **Status:** Historical prototype documentation with a future-facing **Cloud 2.0 concept**. This repository is a portfolio record, not a deployed cybersecurity product or an operational threat-intelligence service.
 
-![Historical hierarchy-model presentation material](docs/assets/historical-model-hierarchy.webp)
+![Historical hierarchy-model presentation material](historical-model-hierarchy.webp)
 
 ## Overview
 
@@ -19,13 +19,13 @@ The materials preserved here are historical photographed diagrams and presentati
 
 ## Historical Design Evidence
 
-The following owner-supplied photographs document historical diagram and model-development materials. The repository deliberately retains the photographic context instead of representing the images as polished production interfaces.
+The following owner-supplied photographs document historical diagram and model-development materials. The repository deliberately retains the photographic context instead of representing the images as polished production interfaces. The owner supplied these images for portfolio use on July 21, 2026; the captions below describe only visible labels and structures, not unverified product functionality.
 
 | Evidence | What is visibly shown | Portfolio interpretation |
 |---|---|---|
-| ![Historical hierarchy diagram](docs/assets/historical-model-hierarchy.webp) | A photographed diagram labeled with a hierarchy that includes ZIP code, city, county, state, federal, and global levels. | Historical thinking about organizing information across geographic and institutional levels. |
-| ![Historical FAM model](docs/assets/historical-fam-model.webp) | A photographed network-style diagram labeled “FAM.” | Historical relationship-model presentation material; technical meaning should not be inferred beyond the visible artifact. |
-| ![Historical Hill model](docs/assets/historical-hill-model.webp) | A photographed network-style diagram labeled “Hill.” | Historical relationship-model presentation material; it is not represented as a live security interface. |
+| ![Historical hierarchy diagram](historical-model-hierarchy.webp) | A photographed diagram labeled with a hierarchy that includes ZIP code, city, county, state, federal, and global levels. | Historical thinking about organizing information across geographic and institutional levels. |
+| ![Historical FAM model](historical-fam-model.webp) | A photographed network-style diagram labeled “FAM.” | Historical relationship-model presentation material; technical meaning should not be inferred beyond the visible artifact. |
+| ![Historical Hill model](historical-hill-model.webp) | A photographed network-style diagram labeled “Hill.” | Historical relationship-model presentation material; it is not represented as a live security interface. |
 
 ## Cloud 2.0 Concept Direction
 
