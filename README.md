@@ -2,6 +2,12 @@
 
 > **Status:** Historical prototype documentation with a future-facing **Cloud 2.0 concept**. This repository is a portfolio record, not a deployed cybersecurity product, active threat-intelligence service, or current consumer security offering.
 
+## Cloud 2.0 Concept Interface
+
+![Virtual Patriot Cloud 2.0 illustrative concept interface](virtual-patriot-cloud-2-concept-interface.png)
+
+> **Concept Interface:** This illustrative Cloud 2.0 visualization shows a possible future-facing decision-support interface. The displayed threat counts, risk levels, map activity, countries, sensor counts, alerts, IP-address fragments, and advisor recommendation are **demonstration/sample content only**. They are not evidence of a live service, operational deployment, active sensor network, geographic reporting capability, detection efficacy, or current product availability.
+
 ![Historical Digital Home Network concept](historical-digital-home-network.png)
 
 *Historical network-concept illustration from owner-supplied presentation material. It depicts connected home endpoints and a broadband gateway; it is not a current device photograph, production architecture, or deployed service diagram.*
